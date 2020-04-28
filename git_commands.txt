@@ -1,0 +1,13 @@
+code . It is used for opening VCS with the files created 
+Touch creats files 
+mkdir creats Folders
+cd .. goes back to the folders 
+pwd path of my current directory 
+ls shows the folder content
+git init initializes the current directory to a local Git repostery
+git status shows status of the files 
+git add : adds the previously created files to the staging area 
+git commit -m "" shows associate meaningful comments to the commits, it explains what kind of changes 
+git remote show origin shows what is the remote repository to which you are pushing the changes applied on your local repository
+git remote add origin 
+
